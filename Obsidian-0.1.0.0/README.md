@@ -5,10 +5,23 @@ Obsidian Tutorial
 
 Things to put in tutorial 
 ========================= 
- 
+
+ + CUDA Primer 
+   + Hardware characteristics. 
+   + Programming model. 
+   + Threads, Warps, Blocks, Grids. 
+   + Memory Hierarchy. 
+   + Simple CUDA Kernel program. 
+   + CUDA Glue code. 
+   + Using CUDA profiler.
+   
+ + Introduce Obsidian via simple example 
+   + Kernel code 
+   + Glue Code 
+
  + Basic 
-   - Pull/Push Arrays 
-   - Library Functions 
+   + Pull/Push Arrays 
+   + Library Functions 
 			  
  + GPU hierarchy programming
 
